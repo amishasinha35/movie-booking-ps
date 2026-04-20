@@ -1,0 +1,16 @@
+target/
+*.class
+*.jar
+*.war
+
+.idea/
+*.iml
+*.iws
+.project
+.classpath
+.settings/
+
+.DS_Store
+Thumbs.db
+
+application-local.properties
